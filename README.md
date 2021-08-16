@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password generator for module 3
+This is a password generator guaranteed to create a reliable randomly generated password for your needs.
